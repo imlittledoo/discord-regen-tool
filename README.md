@@ -75,7 +75,7 @@ Use responsibly and at your **own risk**.
 
 ## 🧑‍💻 Author
 
-Developed by **Andrew AL ACHKAR**
+Developed by **ImLittledoo**
 If you like this project, consider giving it a ⭐
 
 ---
